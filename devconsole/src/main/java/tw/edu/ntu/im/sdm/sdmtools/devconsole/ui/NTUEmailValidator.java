@@ -1,4 +1,4 @@
-package tw.edu.ntu.im.sdm.sdmtools.ldap_setup.ui;
+package tw.edu.ntu.im.sdm.sdmtools.devconsole.ui;
 
 import com.vaadin.data.Validator;
 import com.vaadin.data.validator.EmailValidator;
